@@ -1,7 +1,7 @@
 import React from "react";
 import TopBar from "../../components/Marketpro/TopBar";
 import Header from "../../components/Marketpro/Header";
-import Navbar from "../../components/Marketpro/NavBar";
+import Navbar from "../../components/Marketpro/Navbar";
 
 
 export default function Marketpro() {
